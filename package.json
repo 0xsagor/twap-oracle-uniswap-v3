@@ -1,0 +1,11 @@
+{
+  "name": "twap-oracle-uniswap-v3",
+  "version": "1.0.0",
+  "description": "Uniswap V3 Time-Weighted Average Price Oracle",
+  "dependencies": {
+    "@uniswap/v3-core": "^1.0.1",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
